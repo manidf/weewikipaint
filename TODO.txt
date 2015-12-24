@@ -15,7 +15,8 @@ User stories
 - Marketing Copy
 
 Engineering tasks
-- automated build
+* automated build
+- static code analysis
 - continuous integration
 - server side testing
 - client side testing
